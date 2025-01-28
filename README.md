@@ -15,3 +15,6 @@ Este es un divertido juego de memoria desarrollado en C#, inspirado en el popula
 
 ## Among us
 ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
+
+## Como usar
+Descarga el archivo exe y correlo para comenzar a jugar :)
