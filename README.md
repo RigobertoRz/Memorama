@@ -13,8 +13,17 @@ Este es un divertido juego de memoria desarrollado en C#, inspirado en el popula
 ⚡ Rápido y optimizado para sistemas Windows.
 
 
+
+
+
+
 ## Among us
-ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
+ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ
+
+![amogus memoramagif](https://github.com/user-attachments/assets/dfcb3ba3-719e-4472-b208-c93a02f691f8)
+
+
+
 
 ## Como usar
 Descarga el archivo exe y correlo para comenzar a jugar :)
